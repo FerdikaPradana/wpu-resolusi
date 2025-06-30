@@ -2,10 +2,8 @@ RENCANA KONTEN WPU:
 - Javascript
  * Framework A
  * Framework B
- * 111
- * 222
- * 333
- * Framework C
+ * Fisika
+ * Biologi
 - PHP Framework
 - Interview
 - Vlogs
