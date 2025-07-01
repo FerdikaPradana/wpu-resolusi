@@ -4,6 +4,8 @@ RENCANA KONTEN WPU:
  * Framework B
  * Fisika
  * Biologi
+ * Kimia
+ * Ekonomi
 - PHP Framework
 - Interview
 - Vlogs
